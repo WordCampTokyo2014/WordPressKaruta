@@ -10,11 +10,11 @@ The basic idea is to be able to quickly determine which card out of an array of 
 ## How to play
 There are two kinds of cards used in karuta. One kind is yomifuda (読札) or "reading cards", and the other is torifuda (取り札) or "grabbing cards." As they were denoted, the words in the yomifuda are read and players will have to find its associated torifuda before anybody else does.
 
-<img src="/WordCampTokyo2014/karuta--card-game--/img/card-image.gif" />
+<img src="img/card-image.gif" />
 
 ## Photo
-<img src="/WordCampTokyo2014/karuta--card-game--/img/photo01.jpg" />
-<img src="/WordCampTokyo2014/karuta--card-game--/img/photo02.jpg" />
+<img src="img/photo01.jpg" />
+<img src="img/photo02.jpg" />
 
 ## Contribution
 Here is English version.
